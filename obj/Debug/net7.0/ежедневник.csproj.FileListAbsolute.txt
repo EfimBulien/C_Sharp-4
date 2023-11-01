@@ -1,0 +1,14 @@
+C:\Users\efimb\source\repos\ежедневник2\bin\Debug\net7.0\ежедневник2.exe
+C:\Users\efimb\source\repos\ежедневник2\bin\Debug\net7.0\ежедневник2.deps.json
+C:\Users\efimb\source\repos\ежедневник2\bin\Debug\net7.0\ежедневник2.runtimeconfig.json
+C:\Users\efimb\source\repos\ежедневник2\bin\Debug\net7.0\ежедневник2.dll
+C:\Users\efimb\source\repos\ежедневник2\bin\Debug\net7.0\ежедневник2.pdb
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ежедневник2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ежедневник2.AssemblyInfoInputs.cache
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ежедневник2.AssemblyInfo.cs
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ежедневник2.csproj.CoreCompileInputs.cache
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ежедневник2.dll
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\refint\ежедневник2.dll
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ежедневник2.pdb
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ежедневник2.genruntimeconfig.cache
+C:\Users\efimb\source\repos\ежедневник2\obj\Debug\net7.0\ref\ежедневник2.dll
